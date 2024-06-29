@@ -1,2 +1,1 @@
-# PaddleRack-Backend
-Node Backend for PaddleRack
+# Node backend for PaddleRack
