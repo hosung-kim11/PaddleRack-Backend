@@ -2,8 +2,8 @@
 # PaddleRack - Backend
 
 PaddleRack is a virtual Paddle Rack for Pickle Ball court rotations.
-You can find the frontend [here](https://github.com/hosung-kim11/PaddleRack-Frontend)
-You can find the project [here](https://paddlerack.live)
+<be></br>Link to [Frontend](https://github.com/hosung-kim11/PaddleRack-Frontend)
+<be></br>Link to [PaddleRack](https://paddlerack.live)
 ## Features
 
 - Frontend: Dynamic ReactJS user interface that is designed for mobile users with the use of WebSockets for live updates
